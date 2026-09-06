@@ -108,7 +108,7 @@ Screenshots are stored in `docs/screenshots/`.
 
 ## Live Demo
 
-Live demo URL will be added after deployment.
+https://novapay-landing-page.vercel.app/
 
 ## Portfolio Purpose
 
